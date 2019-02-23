@@ -17,7 +17,7 @@ The EHDEN Academy is being developed in Moodle and is hosted in the Amazon AWS c
 None
 
 ## Getting Involved
-* Developer questions/comments/feedback: <a href="http://forum.ehden.eu/c/wp4">EHDEN Forum</a>
+* Developer questions/comments/feedback: <a href="https://forum.ehden.eu/c/ehden-academy">EHDEN Forum</a>
 * We use the <a href="../../issues">GitHub issue tracker</a> for all bugs/issues/enhancements
 
 
