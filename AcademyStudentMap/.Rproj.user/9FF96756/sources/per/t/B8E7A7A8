@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588759003762.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "610273650",
+    "id" : "B8E7A7A8",
+    "lastKnownWriteTime" : 1588778184,
+    "last_content_update" : 1588778184455,
+    "path" : "~/Git/AcademyStudentMap/run.R",
+    "project_path" : "run.R",
+    "properties" : {
+        "cursorPosition" : "55,44",
+        "scrollLine" : "42",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
