@@ -1,9 +1,9 @@
 {
-    "path" : "~/Git/AcademyMap",
-    "sortOrder" : [
+    "path": "~/Git/Academy/AcademyStudentMap",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": true
         }
     ]
 }
