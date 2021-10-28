@@ -1,6 +1,6 @@
 ---
 layout: "page"
-nav_order: 2
+nav_order: 1
 title: "Content"
 parent: "Course Development"
 ---
@@ -15,7 +15,7 @@ A Moodle courses consists of two major components.
 
 To avoid confusion for the student we have decided that there shall be only three activities used throughout a course.
 - **Page** activity to present course information in the form of text or a video.
-- **Quiz** activity for knowledge checkers and examinations.
+- **Quiz** activity for knowledge checkers and examinations. To pass any knowledge checker at least 8 out of 10 points are required. Quizzes should be multiple choice.
 - **File** activity to share small files (< 5MB) with the student
 
 Please avoid the use of other activities wherever possible.
