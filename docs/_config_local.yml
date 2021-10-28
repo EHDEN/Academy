@@ -30,7 +30,7 @@ github_username:  jekyll
 # color_scheme: li
 
 # Build settings
-theme: just-the-docs
+theme: just-the-docs-ehden
 
 plugins:
   - jekyll-feed
