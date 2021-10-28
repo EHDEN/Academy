@@ -5,9 +5,11 @@ title: "Screen Capture"
 parent: "Course Development"
 ---
 # Screen Capture
-For screen captures we recommend to download the open-source software **OBS Studio** and install it on your system.
+For screen captures we recommend to download and install **OBS Studio** on your system. OBS Studio is a free and open-source cross-platform streaming and recording program built with Qt and maintained by the OBS Project. There are versions of OBS Studio available for Microsoft Windows, macOS and Linux distributions.
 
 [Download OBS Studio](https://obsproject.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }  [View documentation](https://obsproject.com/help){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
 
 ## Settings
 To achieve a good picture quality, we recommend to use the following settings for OBS Studio.
@@ -55,6 +57,12 @@ To achieve a good picture quality, we recommend to use the following settings fo
 Screen capture is done from a source, which is specified in **Sources** on the bottom of the main screen of OBS Studio.
 1. Select *+* and *Display Capture*.
 2. A menu will open in which the *Display* to capture from can be selected.
+
+Selected sources will appear in the *Sources* list and can be toggled on or off with the eye icon.
+
+<center>
+<img src="{{ site.url }}/Academy/pages/img/screen-capture-1.png" width="50%">
+</center>
 
 If you plan to also capture audio from the computer output, e.g. to play a video, or a camera feed you must also add the corresponding sources. Note, by default a source for an audio input device, e.g. a microphone, has already been added. It is visible in the *Audio Mixer* section of the main screen.
 

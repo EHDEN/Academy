@@ -32,13 +32,13 @@ aux_links:
 
 color_scheme: light-or-dark
 
-# color_scheme: ehden
-
 # Build settings
 remote_theme: lhjohn/just-the-docs-ehden
 
+
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
