@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The EHDEN Academy has been created as the online educational resource for anyone working in the domain of real world data and real world evidence. Originating in the European Health Data & Evidence Network ([EHDEN](https://www.ehden.eu)) IMI2 project, its goal is to build upon the foundations of that project and its collaboration with the Observational Health Data Science and Informatics ([OHDSI](https://www.ohdsi.org)).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+The EHDEN Academy aims to be a resource for all those who generate and utilise data, work technically with it (e.g. ETL and mapping), and are involved in methodological development and the use of standardised analytical tools.
 
-
-[jekyll-organization]: https://github.com/jekyll
+You can find the EHDEN Academy at [https://academy.ehden.eu](https://academy.ehden.eu).

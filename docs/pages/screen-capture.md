@@ -7,7 +7,7 @@ parent: "Course Development"
 # Screen Capture
 For screen captures we recommend to download and install **OBS Studio** on your system. OBS Studio is a free and open-source cross-platform streaming and recording program built with Qt and maintained by the OBS Project. There are versions of OBS Studio available for Microsoft Windows, macOS and Linux distributions.
 
-[Download OBS Studio](https://obsproject.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }  [View documentation](https://obsproject.com/help){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Download OBS Studio](https://obsproject.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }  [View OBS Studio documentation](https://obsproject.com/help){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
