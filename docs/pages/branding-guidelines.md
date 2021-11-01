@@ -1,10 +1,10 @@
 ---
 layout: "page"
-nav_order: 2
-title: "Course Development"
+nav_order: 3
+title: "Branding Guidelines"
 has_children: true
 ---
-# Course Development
+# Branding Guidelines
 
 The EHDEN Academy has defined a number of course design principles and guidelines that ensure consistency in course structure and are aimed to facilitate learning for the students. This chapter details the process of planning, designing and delivering an EHDEN Academy course.
 

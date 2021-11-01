@@ -7,13 +7,30 @@ parent: "Course Development"
 
 # Structure
 
-A Moodle courses consists of two major components.
+EHDEN Academy courses consist of two components.
 - **Activities** are resources such as *Pages*, *Quizzes* or *Files* that a student can interact with and contribute to.
-- **Sections** are used to organise *Activities* into major topics of the a course.
+- **Sections** are used to provide general course information and organise *Activities* into topics.
 
 ---
 
-## Course Layout
+## Activities
+
+Moodle provides a multitude of different activities. To avoid confusion for the student we have decided that only three different activities should be used throughout a course.
+- **Page** activity to present course information in the form of text or a video.
+- **Quiz** activity for knowledge checkers and examinations.
+- **File** activity to share small files with the student
+
+Please avoid the use of other activities wherever possible.
+
+### Page Activity
+
+### Quiz Activity
+To pass any knowledge checker at least 8 out of 10 points are required. Quizzes should be multiple choice.
+
+### File Activity
+(< 5MB)
+
+## Sections
 
 Courses are divided into any number of sections. The following example shows the layout of a course with four sections.
 

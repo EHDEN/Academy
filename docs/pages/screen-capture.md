@@ -14,8 +14,8 @@ For screen captures we recommend to download and install **OBS Studio** on your 
 ## Settings
 To achieve a good picture quality, we recommend to use the following settings for OBS Studio.
 
-1.	Open the *Settings* menu.
-2.	Select the *Output* category and change the *Output Mode* to `Advanced`, which will show additional settings. Open the **Recoding** tab, which is now visible. Set the following values.
+1. Open the *Settings* menu.
+2. Select the *Output* category and change the *Output Mode* to `Advanced`, which will show additional settings. Open the **Recoding** tab, which is now visible. Set the following values.
 
     | Option | Value |
     | ---: | :--- |
