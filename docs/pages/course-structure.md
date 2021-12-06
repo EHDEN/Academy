@@ -30,7 +30,7 @@ To upload a video to a **Page** activity:
 3. Scroll down to the **Content** sections
 4. In the text field **Page content** select the **Insert or edit and audio/video file** icon
     <center>
-    <img src="{{ site.url }}/Academy/pages/img/course-structure-2.png" width="50%">
+    <img src="{{ site.url }}/Academy/pages/img/course-structure-2.png" width="100%">
     </center>
 5. The **Insert media** window opens
 6. Click on **Browse repositories..** to upload the video files
@@ -45,7 +45,7 @@ To upload a video to a **Page** activity:
 A video is accompanied by at least a summary of its content located directly below. The summary should be placed through the HTML view.
 You can open the HTML video by clicking the HTML button in the editor. It may be necessary to expand the additonal taskbar to see the HTML button.
 <center>
-<img src="{{ site.url }}/Academy/pages/img/course-structure-3.png" width="50%">
+<img src="{{ site.url }}/Academy/pages/img/course-structure-3.png" width="100%">
 </center>
 
 ```
