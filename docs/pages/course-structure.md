@@ -12,6 +12,30 @@ EHDEN Academy courses consist of two components.
 
 ---
 
+## Sections
+Courses are divided into any number of *Sections*. The following example shows the layout of a course with four sections.
+
+<center>
+<img src="{{ site.url }}/Academy/pages/img/course-structure.png" width="25%">
+</center>
+
+The following content should be placed in each of these Sections
+1. **Course overview** is distinctive due to its grey-blue color on the top of the course. This section should present the following information.
+  - Welcome message
+  - Course content summary
+  - Information about the teacher
+  - Course duration of the form *Estimated time for course completion is 2 h 30 min*.
+2. **Introduction** provides a general introduction to the course. This section must have at least the following activities.
+  - Course introduction (*Page* activity)
+  - Course resources (*Page* activity)
+3. **Course section** should cover a major topic of the course with several activities. A course can have any number sections. This section must have at least the following activities.
+  - At least one learning resource (*Page* activity)
+  - Knowledge checker for this section only (*Quiz* activity)
+4. **Examination** tests the overall understanding of the student.
+  - Knowledge checker for all sections (*Quiz* activity)
+
+---
+
 ## Activities
 Moodle provides a multitude of different activities. To avoid confusion for the student we have decided that only three different activities should be used throughout a course.
 - **Page** activity to present course information in the form of text or a video.
@@ -21,8 +45,7 @@ Moodle provides a multitude of different activities. To avoid confusion for the 
 Please avoid the use of other activities wherever possible.
 
 ### Page Activity
-The default learning resource in the Academy uses a **Page** activity. It should contain either written text or a video.
-ideo requirements:** A video should be uploaded to the Academy server so that it is available on demand and does not rely on external services. We make an exception for long videos that are occasionally added as optional resource. For example, there are recordings of the OHDSI Symposium 2019 in Europe, which are available as a three hour long video on YouTube, and should be included as a link only.
+The default learning resource in the Academy uses a **Page** activity. It should contain either written text or a video. A video should be uploaded to the Academy server so that it is available on demand and does not rely on external services. We make an exception for long videos that are occasionally added as optional resource. For example, there are recordings of the OHDSI Symposium 2019 in Europe, which are available as a three hour long video on YouTube, and should be included as a link only.
 
 To upload a video to a **Page** activity:
 1. Open the **Page** activity you created for the video.
@@ -47,7 +70,7 @@ You can open the HTML video by clicking the HTML button in the editor. It may be
 <center>
 <img src="{{ site.url }}/Academy/pages/img/course-structure-3.png" width="100%">
 </center>
-
+An editor with similar content as follows should open where `[...]` holds various information such as the address of the video you just added.
 ```
 &nbsp;<video width="960" height="540" controls="true">
   [...]
@@ -66,22 +89,3 @@ To pass any knowledge checker at least 8 out of 10 points are required. Quizzes 
 
 ### File Activity
 (< 5MB)
-
-## Sections
-
-Courses are divided into any number of sections. The following example shows the layout of a course with four sections.
-
-<center>
-<img src="{{ site.url }}/Academy/pages/img/course-structure.png" width="25%">
-</center>
-
-The following content should be placed in each of these Sections
-1. **Course overview** presents a welcome message, a content summary and information about the teacher. There are no activities that need to be completed in this section.
-2. **Introduction** provides a general introduction to the course. This section must have at least the following activities.
-  - Course introduction (*Page* activity)
-  - Course resources (*Page* activity)
-3. **Course section** should cover a major topic of the course with several activities. A course can have any number sections. This section must have at least the following activities.
-  - At least one learning resource (*Page* activity)
-  - Knowledge checker for this section only (*Quiz* activity)
-4. **Examination** tests the overall understanding of the student.
-  - Knowledge checker for all sections (*Quiz* activity)

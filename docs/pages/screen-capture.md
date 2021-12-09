@@ -7,7 +7,7 @@ parent: "Course Development"
 # Screen Capture
 For screen captures we recommend to download and install **OBS Studio** on your system. OBS Studio is a free and open-source cross-platform streaming and recording program built with Qt and maintained by the OBS Project. There are versions of OBS Studio available for Microsoft Windows, macOS and Linux distributions.
 
-[Download OBS Studio](https://obsproject.com){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }  [View OBS Studio documentation](https://obsproject.com/help){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Download OBS Studio](https://obsproject.com){:target="_blank" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }  [View OBS Studio documentation](https://obsproject.com/help){:target="_blank" .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
@@ -53,6 +53,8 @@ To achieve a good picture quality, we recommend to use the following settings fo
     | Color Space | `709` |
     | Color Range | `Full` |
 
+---
+
 ## Sources
 Screen capture is done from a source, which is specified in **Sources** on the bottom of the main screen of OBS Studio.
 1. Select *+* and *Display Capture*.
@@ -67,6 +69,8 @@ Selected sources will appear in the *Sources* list and can be toggled on or off 
 If you plan to also capture audio from the computer output, e.g. to play a video, or a camera feed you must also add the corresponding sources. Note, by default a source for an audio input device, e.g. a microphone, has already been added. It is visible in the *Audio Mixer* section of the main screen.
 
 We recommend using an external monitor with an aspect ratio of *16:9*. These monitors use the most common native resolution of *1920 x 1080*, *2560 x 1440*, and *3840 x 2160*. We do not recommend screen capture on screens with **other aspect ratios**, such as the Apple MacBook Pro screen, which has an aspect ratio of *16:10*, as it will result in black borders on the sides.
+
+---
 
 ## Tips
 - An external monitor will allow you to have OBS Studio opened on one screen, while recording from the other one.

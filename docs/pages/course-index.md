@@ -10,4 +10,4 @@ The EHDEN Academy has defined course design principles and guidelines that ensur
 
 The EHDEN Academy is build on the Moodle framework version 3.11, which is a free and open-source learning management system (LMS) distributed under the GNU General Public License.
 
-[View Moodle documentation](https://docs.moodle.org/311/en/Main_page){: .btn .fs-5 .mb-4 .mb-md-0 }
+[View Moodle documentation](https://docs.moodle.org/311/en/Main_page){:target="_blank" .btn .fs-5 .mb-4 .mb-md-0 }

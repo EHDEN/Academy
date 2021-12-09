@@ -23,8 +23,8 @@ A new and empty course can be created with the following steps.
 
     | General | Value |
     | ---: | :--- |
-    | Course full name | *Path to storage directory* |
-    | Course short name | `mp4` |
+    | Course full name | *Course name* |
+    | Course short name | *Course short name* |
     | Course visibility | `Hide` |
 
     | Course format | Value |

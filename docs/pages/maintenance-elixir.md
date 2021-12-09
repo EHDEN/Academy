@@ -26,3 +26,5 @@ You can upgrade an existing student account that has been created through email-
 8. Reopen the student's profile by clicking the **cog icon** again
 9. Change the value of the **Choose an authentication method** field from `Email-based self-registration` to `Shibboleth`
 10. Again, click **Update profile** on the bottom of the page to save these changes
+
+For technical reasons it is not possible to
