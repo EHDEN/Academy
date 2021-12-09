@@ -103,5 +103,34 @@ ggsave(filename = "Europe.png", plot = last_plot(),
        scale = 2.25,
        dpi = 600)
 
+apac_cropped <- st_crop(world2, xmin = -20, xmax = 45,
+                          ymin = 30, ymax = 73)
+
+# Plot #2: Europe
+ggplot(data = apac_cropped) + 
+  geom_sf(color = "white", aes(fill = Students)) +
+  coord_sf(datum = NA) +
+  # geom_text_repel(data = cities, aes(x = long, y = lat, label = city),
+  #                 fontface = "bold") +
+  labs(x = NULL, y = NULL) +
+  #scale_fill_viridis_d(option = "plasma", na.value="grey90") +
+  scale_fill_manual(values=c(rgb(55/255, 46/255, 119/255),
+                             rgb(146/255, 46/255, 117/255),
+                             rgb(220/255, 52/255, 86/255),
+                             rgb(239/255, 165/255, 40/255),
+                             rgb(69/255, 176/255, 201/255)),
+                    na.value="grey90") +
+  theme(panel.grid.major = element_line(colour = "transparent"),
+        panel.background = element_rect(fill = "white"),
+        legend.key.size = unit(1.2, "cm"),
+        legend.title=element_text(size=24), 
+        legend.text=element_text(size=20),
+        axis.text.x=element_blank())
+
+ggsave(filename = "APAC.png", plot = last_plot(),
+       scale = 2.25,
+       dpi = 600)
 # plotly::plotly(p)
 ##############
+
+apac <- list("China", "Hong Kong", "Japan", "Korea", "Taiwan", "Bangladesh", "India", "Nepal", "Cambodia", "Australia", "Indonesia", "Philippines", "Singapore", "Thailand")
