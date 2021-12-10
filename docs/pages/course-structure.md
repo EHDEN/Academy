@@ -16,7 +16,7 @@ EHDEN Academy courses consist of two components.
 Courses are divided into any number of *Sections*. The following example shows the layout of a course with four sections.
 
 <center>
-<img src="{{ site.url }}/Academy/pages/img/course-structure.png" width="25%">
+<img src="{{ site.url }}/Academy/pages/img/course-structure-1.png" width="25%">
 </center>
 
 The following content should be placed in each of these Sections

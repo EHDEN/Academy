@@ -1,6 +1,6 @@
 ---
 layout: "page"
-nav_order: 2
+nav_order: 4
 title: "Publish Course"
 parent: "Course Development"
 ---
