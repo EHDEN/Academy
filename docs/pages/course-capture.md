@@ -5,6 +5,8 @@ title: "Screen and Audio Capture"
 parent: "Course Development"
 ---
 # Screen and Audio Capture
+<img src="https://img.shields.io/badge/Doc%20Status-Completed-brightgreen.svg" alt="Doc Status: Completed">
+
 For screen and audio captures we recommend to download and install **OBS Studio** on your system. OBS Studio is a free and open-source cross-platform streaming and recording program maintained by the OBS Project. There are versions of OBS Studio available for Microsoft Windows, macOS and Linux distributions.
 
 [Download OBS Studio](https://obsproject.com){:target="_blank" .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }  [View OBS Studio documentation](https://obsproject.com/help){:target="_blank" .btn .fs-5 .mb-4 .mb-md-0 }

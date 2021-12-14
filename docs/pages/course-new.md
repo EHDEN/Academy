@@ -6,6 +6,7 @@ parent: "Course Development"
 ---
 
 # Add New Course
+<img src="https://img.shields.io/badge/Doc%20Status-Completed-brightgreen.svg" alt="Doc Status: Completed">
 
 Adding a new course requires an administrator account with a system role of at least *Course creator*. This sections details the minimum settings for a newly created course. Additional settings that need to be set before publishing a course will be discussed in a later section.
 

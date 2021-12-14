@@ -6,6 +6,8 @@ parent: "Course Development"
 ---
 
 # Course Structure
+<img src="https://img.shields.io/badge/Doc%20Status-Developing-red.svg" alt="Doc Status: Development">
+
 EHDEN Academy courses consist of two components.
 - **Activities** are resources such as *Pages*, *Quizzes* or *Files* that a student can interact with and contribute to.
 - **Sections** are used to provide general course information and organise *Activities* into topics.

@@ -5,6 +5,8 @@ title: "ELIXIR AAI"
 parent: "Maintenance"
 ---
 # ELIXIR AAI
+<img src="https://img.shields.io/badge/Doc%20Status-Completed-brightgreen.svg" alt="Doc Status: Completed">
+
 This section summarises relevant information for the single sign-on solution ELIXIR AAI, which is used in the EHDEN ecosystem.
 
 [View ELIXIR website](https://elixir-europe.org){:target="_blank" .btn .fs-5 .mb-4 .mb-md-0 }

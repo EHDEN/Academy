@@ -6,6 +6,8 @@ parent: "Course Development"
 ---
 
 # Publish Course
+<img src="https://img.shields.io/badge/Doc%20Status-Developing-red.svg" alt="Doc Status: Development">
+
 Once the course content has been completed there are a number of steps before a course can be published. This includes setting  options for completion tracking, self enrolment, and course visibility.
 
 ---
