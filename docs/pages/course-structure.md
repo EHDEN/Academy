@@ -25,7 +25,7 @@ The following content should be placed in each of these Sections
 1. **Course overview** is distinctive due to its grey-blue color on the top of the course. This section should present the following information.
   - Welcome message
   - Course content summary
-  - Information about the teacher
+  - Contact information of the form *If you experience any issues with this course, please email us via academy@ehden.eu.*
   - Course duration of the form *Estimated time for course completion is 2 h 30 min*.
 2. **Introduction** provides a general introduction to the course. This section must have at least the following activities.
   - Course introduction (*Page* activity)
